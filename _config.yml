@@ -1,0 +1,14 @@
+layout_spectrum: 0.18864991120062768
+typography_spectrum: 0.40741757256910205
+color:
+  brandStrength: 0.6482158228754997
+  lightness: 0.3134745766874403
+  saturation: 0.8856359696947038
+  rhythmicContrast: 0.09207078907638788
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: stanopoly
