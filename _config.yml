@@ -12,3 +12,7 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 name: stanopoly
+navigation:
+  - name: Portfolio
+    url: 'http://stanopoly.com'
+    type: external
