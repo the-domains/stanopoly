@@ -6,13 +6,9 @@ color:
   saturation: 0.8856359696947038
   rhythmicContrast: 0.09207078907638788
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: stanopoly
-navigation:
-  - name: Portfolio
-    url: 'http://stanopoly.com'
-    type: external
